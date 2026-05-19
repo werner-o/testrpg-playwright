@@ -1,0 +1,1259 @@
+Diacritic
+
+From Wikipedia, the free encyclopedia
+For the academic journal, see Diacritics (journal).
+
+Latin letter A with multiple diacritics
+This article contains special characters. Without proper rendering support, you may see question marks, boxes, or other symbols.
+This page uses IPA notation for orthographic or other linguistic analysis. For the meaning of how ⟨ ⟩, | |, / /, and [ ] are used here, see this page.
+A diacritic (also diacritical mark, diacritical point, diacritical sign, or accent) is a glyph added to a letter or to a basic glyph. The term derives from the Ancient Greek διακριτικός (diakritikós, "distinguishing"), from διακρίνω (diakrínō, "to distinguish"). The word diacritic is a noun, though it is sometimes used in an attributive sense, whereas diacritical is only an adjective. Some diacritics, such as the acute ⟨ó⟩, grave ⟨ò⟩, and circumflex ⟨ô⟩ (all shown above an 'o'), are often called accents. Diacritics may appear above or below a letter or in some other position such as within the letter or between two letters.
+
+The main use of diacritics in Latin script is to change the sound-values of the letters to which they are added. Historically, English has used the diaeresis diacritic to indicate the correct pronunciation of ambiguous words, such as "coöperate", without which the <oo> letter sequence could be misinterpreted to be pronounced /ˈkuːpəreɪt/. Other examples are the acute and grave accents, which can indicate that a vowel is to be pronounced differently from what is normal in that position, for example not reduced to /ə/ or silent as in the case of the two uses of the letter e in the noun résumé (as opposed to the verb resume) and the help sometimes provided in the pronunciation of some words such as doggèd, learnèd, blessèd, and especially words pronounced differently than normal in poetry (for example movèd, breathèd).
+
+Most other words with diacritics in English are borrowings from languages such as French to better preserve the spelling, such as the diaeresis on naïve and Noël, the acute from café, the circumflex in the word crêpe, and the cedille in façade. All these diacritics, however, are frequently omitted in writing, and English is the only major modern European language that does not have diacritics in common usage.[a]
+
+In Latin-script alphabets in other languages diacritics may distinguish between homonyms, such as the French là ("there") versus la ("the"), which are both pronounced /la/. In Gaelic type, a dot over a consonant indicates lenition of the consonant in question. In other writing systems, diacritics may perform other functions. Vowel pointing systems, namely the Arabic harakat and the Hebrew niqqud systems, indicate vowels that are not conveyed by the basic alphabet. The Indic virama ( ् etc.) and the Arabic sukūn ( ـْـ ) mark the absence of vowels. Cantillation marks indicate prosody. Other uses include the Early Cyrillic titlo stroke ( ◌҃ ) and the Hebrew gershayim ( ״ ), which, respectively, mark abbreviations or acronyms, and Greek diacritical marks, which showed that letters of the alphabet were being used as numerals. In Vietnamese and the Hanyu Pinyin official romanization system for Mandarin in China, diacritics are used to mark the tones of the syllables in which the marked vowels occur.
+
+In orthography and collation, a letter modified by a diacritic may be treated either as a new, distinct letter or as a letter–diacritic combination. This varies from language to language and may vary from case to case within a language.
+
+In some cases, letters are used as "in-line diacritics", with the same function as ancillary glyphs, in that they modify the sound of the letter preceding them, as in the case of the "h" in the English pronunciation of "sh" and "th".[2] Such letter combinations are sometimes even collated as a single distinct letter. For example, the spelling sch was traditionally often treated as a separate letter in German. Words with that spelling were listed after all other words spelled with s in card catalogs in the Vienna public libraries, for example (before digitization).
+
+Types
+<?>
+This article contains uncommon Unicode characters. Without proper rendering support, you may see question marks, boxes, or other symbols instead of the intended characters.
+Larger renditions of these glyphs are given at § List of diacritics in Unicode, below
+Among the types of diacritic used in alphabets based on the Latin script are:
+
+accents (so called because the acute, grave, and circumflex were originally used to indicate different types of pitch accents in the polytonic transcription of Greek)
+◌́ – acute (Latin: apex); for example ó
+◌̀ – grave; for example ò
+◌̂ – circumflex; for example ô
+◌̌ – caron, wedge; for example ǒ
+◌̋ – double acute; for example ő
+◌̏ – double grave; for example ȍ
+one dot
+◌̇ – an overdot is used in many orthographies and transcriptions; for example ȯ
+◌̣ – an underdot is also used in many orthographies and transcriptions; for example ọ
+◌·◌ – an interpunct is used in the Catalan ela geminada (l·l)
+◌͘ – a dot above right is used in Pe̍h-ōe-jī
+tittle, the superscript dot of the modern lowercase Latin ⟨i⟩ and ⟨j⟩
+two dots:
+two overdots (◌̈) are used for umlaut, diaeresis and others; (for example ö)
+two underdots (◌̤) are used in the International Phonetic Alphabet (IPA) and the ALA-LC romanization system
+◌ː – triangular colon, used in the IPA to mark long vowels (the "dots" are triangular, not circular).
+curves
+◌̆ – breve; for example ŏ
+◌̑ – inverted breve; for example ȏ
+◌͗ – sicilicus, a palaeographic diacritic similar to a caron or breve
+◌̃ – tilde; for example õ
+◌҃ – titlo
+vertical stroke
+◌̩ – a subscript vertical stroke is used in IPA to mark syllabicity and in Rheinische Dokumenta to mark a schwa
+◌̍ – a superscript vertical stroke is used in Pe̍h-ōe-jī
+macron or horizontal line
+◌̄ – macron; for example ō
+◌̱ – underbar
+overlays
+◌⃓ – vertical bar through the character
+◌̷ – slash through the character; for example ø
+◌̵ – crossbar through the character
+ring
+◌̊ – overring: for example å
+superscript curls
+◌̓ – comma above
+◌̒ – inverted apostrophe
+◌̔ – reversed comma above
+◌̉ – hook above (Vietnamese: dấu hỏi); for example ỏ
+◌̛ – horn (Vietnamese: dấu móc); for example ơ
+subscript curls
+◌̦ – undercomma; for example ș
+◌̧ – cedilla; for example ç
+◌̡ ◌̢ – hook, left or right, sometimes superscript
+◌̨ – ogonek; for example ǫ
+double marks (over or under two base characters)
+◌͝◌ – double breve
+◌͡◌ – tie bar or top ligature
+◌᷍◌ – double circumflex
+◌͞◌ – longum
+◌͠◌ – double tilde
+double sub/superscript diacritics
+◌̧ ̧ – double cedilla
+◌̨ ̨ – double ogonek
+◌̈ ̈ – double diaeresis
+◌ͅͺ – double ypogegrammeni
+The tilde, dot, comma, titlo, apostrophe, bar, and colon are sometimes diacritical marks, but also have other uses.
+
+Not all diacritics occur adjacent to the letter they modify. In the Wali language of Ghana, for example, an apostrophe indicates a change of vowel quality, but occurs at the beginning of the word, as in the dialects ’Bulengee and ’Dolimi. Because of vowel harmony, all vowels in a word are affected, so the scope of the diacritic is the entire word. In abugida scripts, like those used to write Hindi and Thai, diacritics indicate vowels, and may occur above, below, before, after, or around the consonant letter they modify.
+
+The tittle (dot) on the letter ⟨i⟩ or the letter ⟨j⟩, of the Latin alphabet originated as a diacritic to clearly distinguish ⟨i⟩ from the minims (downstrokes) of adjacent letters. It first appeared in the 11th century in the sequence ii (as in ingeníí), then spread to i adjacent to m, n, u, and finally to all lowercase is. The ⟨j⟩, originally a variant of i, inherited the tittle. The shape of the diacritic developed from initially resembling today's acute accent to a long flourish by the 15th century. With the advent of Roman type it was reduced to the round dot we have today.[3]
+
+Several languages of eastern Europe use diacritics on both consonants and vowels, whereas in western Europe digraphs are more often used to change consonant sounds. Most languages in Europe use diacritics on vowels, aside from English where there are typically none (with some exceptions).
+
+Diacritics specific to non-Latin alphabets
+Arabic
+Further information: Arabic diacritics
+(ئ ؤ إ أ and stand alone ء) hamza: indicates a glottal stop.
+(ــًــٍــٌـ) tanwīn (تنوين) symbols: Serve a grammatical role in Arabic. The sign ـً is most commonly written in combination with alif, e.g. ـًا.
+(ــّـ) shadda: Gemination (doubling) of consonants.
+(ٱ) waṣla: Comes most commonly at the beginning of a word. Indicates a type of hamza that is pronounced only when the letter is read at the beginning of the talk.
+(آ) madda: A written replacement for a hamza that is followed by an alif, i.e. (ءا). Read as a glottal stop followed by a long /aː/, e.g. ءاداب، ءاية، قرءان، مرءاة are written out respectively as آداب، آية، قرآن، مرآة. This writing rule does not apply when the alif that follows a hamza is not a part of the stem of the word, e.g. نتوءات is not written out as نتوآت as the stem نتوء does not have an alif that follows its hamza.
+(ــٰـ) superscript alif (also "short" or "dagger alif": A replacement for an original alif that is dropped in the writing out of some rare words, e.g. لاكن is not written out with the original alif found in the word pronunciation, instead it is written out as لٰكن.
+ḥarakāt (In Arabic: حركات also called تشكيل tashkīl):
+(ــَـ) fatḥa (a)
+(ــِـ) kasra (i)
+(ــُـ) ḍamma (u)
+(ــْـ) sukūn (no vowel)
+The ḥarakāt or vowel points serve two purposes:
+They serve as a phonetic guide. They indicate the presence of short vowels (fatḥa, kasra, or ḍamma) or their absence (sukūn).
+At the last letter of a word, the vowel point reflects the inflection case or conjugation mood.
+For nouns, The ḍamma is for the nominative, fatḥa for the accusative, and kasra for the genitive.
+For verbs, the ḍamma is for the imperfective, fatḥa for the perfective, and the sukūn is for verbs in the imperative or jussive moods.
+Vowel points or tashkīl should not be confused with consonant points or iʿjam (إعجام) – one, two or three dots written above or below a consonant to distinguish between letters of the same or similar form.
+Greek
+Further information: Greek diacritics
+These diacritics are used in addition to the acute, grave, and circumflex accents and the diaeresis:
+
+◌ͺ – iota subscript (ᾳ, εͅ, ῃ, ιͅ, οͅ, υͅ, ῳ)
+῾◌ – rough breathing (Ancient Greek: δασὺ πνεῦμα, romanized: dasỳ pneûma, Latin: spīritus asper): aspiration
+᾿◌ – smooth (or soft) breathing (Ancient Greek: ψιλὸν πνεῦμα, romanized: psilòn pneûma, Latin: spīritus lēnis): lack of aspiration
+Hebrew
+Further information: Hebrew diacritics
+
+Genesis 1:9 "And God said, Let the waters be collected".
+Letters in black, niqqud in red, cantillation in blue
+Niqqud
+ּ – Dagesh
+ּ – Mappiq
+ֿ – Rafe
+ׁ – Shin dot (at top right corner)
+ׂ – Sin dot (at top left corner)
+ְ – Shva
+ֻ – Kubutz
+ֹ◌ – Holam
+ָ – Kamatz
+ַ – Patakh
+ֶ – Segol
+ֵ – Tzeire
+ִ – Hiriq
+(Cantillation marks do not generally render correctly; refer to Hebrew cantillation#Names and shapes of the ta'amim for a complete table together with instructions for how to maximize the possibility of viewing them in a web browser.)
+
+Other
+׳ – Geresh
+״ – Gershayim
+Korean
+
+Hangul, the Korean syllabary
+The diacritics 〮 and 〯 , known as Bangjeom (방점; 傍點), were used to mark pitch accents in Hangul for Middle Korean. They were written to the left of a syllable in vertical writing and above a syllable in horizontal writing.
+
+Sanskrit and Indic
+Further information: Brahmic scripts
+
+Devanagari scripts (from Brahmic family) compound letters, which are vowels combined with consonants, have diacritics. Here, क (k) is shown with vowel diacritics. That is: ा, ि, े, ु, ौ ़, ः, etc.
+Syriac
+Further information: Syriac alphabet
+A dot above and a dot below a letter represent [a], transliterated as a or ă,
+Two diagonally-placed dots above a letter represent [ɑ], transliterated as ā or â or å,
+Two horizontally-placed dots below a letter represent [ɛ], transliterated as e or ĕ; often pronounced [ɪ] and transliterated as i in the East Syriac dialect,
+Two diagonally-placed dots below a letter represent [e], transliterated as ē,
+A dot underneath the Beth represent a soft [v] sound, transliterated as v
+A tilde (~) placed under Gamel represent a [dʒ] sound, transliterated as j
+The letter Waw with a dot below it represents [u], transliterated as ū or u,
+The letter Waw with a dot above it represents [o], transliterated as ō or o,
+The letter Yōḏ with a dot beneath it represents [i], transliterated as ī or i,
+A tilde (~) under Kaph represent a [t͡ʃ] sound, transliterated as ch or č,
+A semicircle under Peh represents an [f] sound, transliterated as f or ph.
+In addition to the above vowel marks, transliteration of Syriac sometimes includes ə, e̊ or superscript e (or often nothing at all) to represent an original Aramaic schwa that became lost later on at some point in the development of Syriac.[4] Some transliteration schemes find its inclusion necessary for showing spirantization or for historical reasons.[5][6]
+
+Non-alphabetic scripts
+Some non-alphabetic scripts also employ symbols that function essentially as diacritics.
+
+Non-pure abjads (such as Hebrew and Arabic script) and abugidas use diacritics for denoting vowels. Hebrew and Arabic also indicate consonant doubling and change with diacritics; Hebrew and Devanagari use them for foreign sounds. Devanagari and related abugidas also use a diacritical mark called a virama to mark the absence of a vowel. In addition, Devanagari uses the moon-dot chandrabindu ( ँ ) for vowel nasalization.
+Unified Canadian Aboriginal Syllabics use several types of diacritics, including the diacritics with alphabetic properties known as Medials and Finals. Although long vowels originally were indicated with a negative line through the Syllabic glyphs, making the glyph appear broken, in the modern forms, a dot above is used to indicate vowel length. In some of the styles, a ring above indicates a long vowel with a [j] off-glide. Another diacritic, the "inner ring" is placed at the glyph's head to modify [p] to [f] and [t] to [θ]. Medials such as the "w-dot" placed next to the Syllabics glyph indicates a [w] being placed between the syllable onset consonant and the nucleus vowel. Finals indicate the syllable coda consonant; some of the syllable coda consonants in word medial positions, such as with the "h-tick", indicate the fortification of the consonant in the syllable following it.
+The Japanese hiragana and katakana syllabaries use the dakuten (◌゛) and handakuten (◌゜) (in Japanese: 濁点 and 半濁点) symbols, also known as nigori (濁 "muddying") or ten-ten (点々 "dot dot") and maru (丸 "circle"), to indicate voiced consonants or other phonetic changes.
+Emoticons are commonly created with diacritic symbols, especially Japanese emoticons on popular imageboards.
+Alphabetization or collation
+Main article: Collation
+Different languages use different rules to put diacritic characters in alphabetical order. For example, French and Portuguese treat letters with diacritical marks the same as the underlying letter for purposes of ordering and dictionaries. The Scandinavian languages and the Finnish language, by contrast, treat the characters with diacritics ⟨å⟩, ⟨ä⟩, and ⟨ö⟩ as distinct letters of the alphabet, and sort them after ⟨z⟩. Usually ⟨ä⟩ (a-umlaut) and ⟨ö⟩ (o-umlaut) [used in Swedish and Finnish] are sorted as equivalent to ⟨æ⟩ (ash) and ⟨ø⟩ (o-slash) [used in Danish and Norwegian]. Also, aa, when used as an alternative spelling to ⟨å⟩, is sorted as such. Other letters modified by diacritics are treated as variants of the underlying letter, with the exception that ⟨ü⟩ is frequently sorted as ⟨y⟩.
+
+Languages that treat accented letters as variants of the underlying letter usually alphabetize words with such symbols immediately after similar unmarked words. For instance, in German where two words differ only by an umlaut, the word without it is sorted first in German dictionaries (e.g. schon and then schön, or fallen and then fällen). However, when names are concerned (e.g. in phone books or in author catalogues in libraries), umlauts are often treated as combinations of the vowel with a suffixed ⟨e⟩; Austrian phone books now treat characters with umlauts as separate letters (immediately following the underlying vowel).
+
+In Spanish, the grapheme ⟨ñ⟩ is considered a distinct letter, different from ⟨n⟩ and collated between ⟨n⟩ and ⟨o⟩, as it denotes a different sound from that of a plain ⟨n⟩. But the accented vowels ⟨á⟩, ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩ are not separated from the unaccented vowels ⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, as the acute accent in Spanish only modifies stress within the word or denotes a distinction between homonyms, and does not modify the sound of a letter.
+
+For a comprehensive list of the collating orders in various languages, see Collating sequence.
+
+Generation with computers
+Main article: Unicode input
+
+German keyboard with umlaut letters
+Modern computer technology was developed mostly in countries that speak Western European languages (particularly English), and many early binary encodings were developed with a bias favoring English—a language written without diacritical marks. With computer memory and computer storage at premium, early character sets were limited to the Latin alphabet, the ten digits and a few punctuation marks and conventional symbols. The American Standard Code for Information Interchange (ASCII), first published in 1963, encoded just 95 printable characters. It included just four free-standing diacritics—acute, grave, circumflex and tilde—which were to be used by backspacing and overprinting the base letter. The ISO/IEC 646 standard (1967) defined national variations that replace some American graphemes with precomposed characters (such as ⟨é⟩, ⟨è⟩ and ⟨ë⟩), according to language—but remained limited to 95 printable characters.
+
+Unicode was conceived to solve this problem by assigning every known character its own code; if this code is known, most modern computer systems provide a method to input it. For historical reasons, almost all the letter-with-accent combinations used in European languages were given unique code points and these are called precomposed characters. For other languages, it is usually necessary to use a combining character diacritic together with the desired base letter. Unfortunately, even as of 2024, many applications and web browsers remain unable to operate the combining diacritic concept properly.
+
+Depending on the keyboard layout and keyboard mapping, it is more or less easy to enter letters with diacritics on computers and typewriters. Keyboards used in countries where letters with diacritics are the norm, have keys engraved with the relevant symbols. In other cases, such as when the US international or UK extended mappings are used, the accented letter is created by first pressing the key with the diacritic mark, followed by the letter to place it on. This method is known as the dead key technique, as it produces no output of its own but modifies the output of the key pressed after it.
+
+Languages with letters containing diacritics
+The following languages have letters with diacritics that are orthographically distinct from those without diacritics.
+
+Latin script
+Baltic
+Latvian has the following letters: ⟨ā⟩, ⟨ē⟩, ⟨ī⟩, ⟨ū⟩, ⟨č⟩, ⟨ģ⟩, ⟨ķ⟩, ⟨ļ⟩, ⟨ņ⟩, ⟨š⟩, ⟨ž⟩
+Lithuanian. In general usage, where letters appear with the caron (⟨č⟩, ⟨š⟩ and ⟨ž⟩), they are considered as separate letters from ⟨c⟩, ⟨s⟩ or ⟨z⟩ and collated separately; letters with the ogonek (⟨ą⟩, ⟨ę⟩, ⟨į⟩ and ⟨ų⟩), the macron (⟨ū⟩) and the overdot (⟨ė⟩) are considered as separate letters as well, but not given a unique collation order.
+Celtic
+Welsh uses the circumflex, diaeresis, acute, and grave accents on its seven vowels ⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, ⟨w⟩, ⟨y⟩ (hence the composites ⟨â⟩, ⟨ê⟩, ⟨î⟩, ⟨ô⟩, ⟨û⟩, ⟨ŵ⟩, ⟨ŷ⟩, ⟨ä⟩, ⟨ë⟩, ⟨ï⟩, ⟨ö⟩, ⟨ü⟩, ⟨ẅ⟩, ⟨ÿ⟩, ⟨á⟩, ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩, ⟨ẃ⟩, ⟨ý⟩, ⟨à⟩, ⟨è⟩, ⟨ì⟩, ⟨ò⟩, ⟨ù⟩, ⟨ẁ⟩, ⟨ỳ⟩). However all except the circumflex (which is used as a macron) are fairly rare.
+Following spelling reforms since the 1970s, Scottish Gaelic uses graves only, which can be used on any vowel (⟨à⟩, ⟨è⟩, ⟨ì⟩, ⟨ò⟩, ⟨ù⟩). Formerly acute accents could be used on ⟨á⟩, ⟨ó⟩ and ⟨é⟩, which were used to indicate a specific vowel quality. With the elimination of these accents, the new orthography relies on the reader having prior knowledge of pronunciation of a given word.
+Manx uses the cedilla diacritic ⟨ç⟩ combined with h to give the digraph ⟨çh⟩ (pronounced /tʃ/) to mark the distinction between it and the digraph ⟨ch⟩ (pronounced /h/ or /x/). Other diacritics used in Manx included the circumflex and diaeresis, as in ⟨â⟩, ⟨ê⟩, ⟨ï⟩, etc. to mark the distinction between two similarly spelled words but with slightly differing pronunciation.
+Irish uses only acute accents to mark long vowels, following the 1948 spelling reform. Lenition is indicated using an overdot in Gaelic type (⟨ċ⟩,⟨ḋ⟩,⟨ḟ⟩, ⟨ġ⟩, ⟨ṁ⟩, ⟨ṗ⟩, ⟨ṡ⟩, ⟨ṫ⟩); in Roman type, a suffixed ⟨h⟩ is used. Thus, a ṁáṫair is equivalent to a mháthair.
+Breton does not have a single orthography (spelling system), but uses diacritics for a number of purposes. The diaeresis is used to mark that two vowels are pronounced separately and not as a diphthong/digraph. The circumflex is used to mark long vowels, but usually only when the vowel length is not predictable by phonology. Nasalization of vowels may be marked with a tilde, or following the vowel with the letter ⟨ñ⟩. The plural suffix -où is used as a unified spelling to represent a suffix with a number of pronunciations in different dialects, and to distinguish this suffix from the digraph ⟨ou⟩ which is pronounced as /u:/. An apostrophe is used to distinguish ⟨c'h⟩, pronounced /x/ as the digraph ⟨ch⟩ is used in other Celtic languages, from the French-influenced digraph ch, pronounced /ʃ/.
+Finno-Ugric
+Estonian has a distinct letter ⟨õ⟩, which contains a tilde. Estonian vowels with double-dot diacritics ⟨ä⟩, ⟨ö⟩, ⟨ü⟩ are similar to German, but these are also distinct letters, unlike German umlauted letters. All four have their own place in the alphabet, between ⟨w⟩ and ⟨x⟩. Carons in ⟨š⟩ or ⟨ž⟩ appear only in foreign proper names and loanwords. Also these are distinct letters, placed in the alphabet between s and t.
+Finnish uses double-dotted vowels (⟨ä⟩ and ⟨ö⟩). As in Swedish and Estonian, these are regarded as individual letters, rather than 'vowel + diacritic' combinations (as happens in German). It also uses the characters ⟨å⟩, ⟨š⟩ and ⟨ž⟩ in foreign names and loanwords. In the Finnish and Swedish alphabets, ⟨å⟩, ⟨ä⟩ and ⟨ö⟩ collate as separate letters after ⟨z⟩, the others as variants of their base letter.
+Hungarian uses the double-dot, the acute and double acute diacritics (the last is unique to Hungarian): (⟨ö⟩, ⟨ü⟩), (⟨á⟩, ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩) and (⟨ő⟩, ⟨ű⟩). The acute accent indicates the long form of a vowel (in case of ⟨i⟩/⟨í⟩, ⟨o⟩/⟨ó⟩, ⟨u⟩/⟨ú⟩) while the double acute performs the same function for ⟨ö⟩ and ⟨ü⟩. The acute accent can also indicate a different sound (more open, as in case of ⟨a⟩/⟨á⟩, ⟨e⟩/⟨é⟩). Both long and short forms of the vowels are listed separately in the Hungarian alphabet, but members of the pairs ⟨a⟩/⟨á⟩, ⟨e⟩/⟨é⟩, ⟨i⟩/⟨í⟩, ⟨o⟩/⟨ó⟩, ⟨ö⟩/⟨ő⟩, ⟨u⟩/⟨ú⟩ and ⟨ü⟩/⟨ű⟩ are collated in dictionaries as the same letter.
+Livonian has the following letters: ⟨ā⟩, ⟨ä⟩, ⟨ǟ⟩, ⟨ḑ⟩, ⟨ē⟩, ⟨ī⟩, ⟨ļ⟩, ⟨ņ⟩, ⟨ō⟩, ⟨ȯ⟩, ⟨ȱ⟩, ⟨õ⟩, ⟨ȭ⟩, ⟨ŗ⟩, ⟨š⟩, ⟨ț⟩, ⟨ū⟩, ⟨ž⟩.
+Germanic
+German uses the two-dots diacritic (German: umlaut): letters ⟨ä⟩, ⟨ö⟩, ⟨ü⟩, used to indicate the fronting of back vowels (see umlaut (linguistics)).
+Dutch uses acute, circumflex, grave and two-dots diacritics with most vowels and cedilla with c, as in French. This results in ⟨á⟩, ⟨à⟩, ⟨ä⟩, ⟨é⟩, ⟨è⟩, ⟨ê⟩, ⟨ë⟩, ⟨í⟩, ⟨î⟩, ⟨ï⟩, ⟨ó⟩, ⟨ô⟩, ⟨ö⟩, ⟨ú⟩, ⟨û⟩, ⟨ü⟩ and ⟨ç⟩. This is mostly on words (and names) originating from French (like crème, café, gêne, façade). The acute accent is also used to stress the vowel (like één). The two-dots diacritic is used as a linguistic diaeresis (a vowel hiatus) that splits the two vowels, e.g., reële, reünie, coördinatie), rather than to indicate a linguistic umlaut as used in German.
+Afrikaans uses 16 additional vowel forms, both uppercase and lowercase: ⟨á⟩, ⟨ä⟩, ⟨é⟩, ⟨è⟩, ⟨ê⟩, ⟨ë⟩, ⟨í⟩, ⟨î⟩, ⟨ï⟩, ⟨ó⟩, ⟨ô⟩, ⟨ö⟩, ⟨ú⟩, ⟨û⟩, ⟨ü⟩, ⟨ý⟩.
+Faroese uses acutes and some additional letters. All are considered separate letters and have their own place in the alphabet: ⟨á⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩, ⟨ý⟩ and ⟨ø⟩.
+Icelandic uses acutes and other additional letters. All are considered separate letters, and have their own place in the alphabet: ⟨á⟩, ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩, ⟨ý⟩ and ⟨ö⟩.
+Danish and Norwegian use additional characters like the o-slash ⟨ø⟩ and the a-overring ⟨å⟩. These letters come after ⟨z⟩ and ⟨æ⟩ in the order ⟨ø⟩, ⟨å⟩. Historically, the ⟨å⟩ has developed from a ligature by writing a small superscript ⟨a⟩ over a lowercase ⟨a⟩; if an ⟨å⟩ character is unavailable, some Scandinavian languages allow the substitution of a doubled a, thus ⟨aa⟩. The Scandinavian languages collate these letters after ⟨z⟩, but have different national collation standards.
+Swedish uses a-diaeresis (⟨ä⟩) and o-diaeresis (⟨ö⟩) in the place of ash (⟨æ⟩) and slashed o (⟨ø⟩) in addition to the a-overring (⟨å⟩). Historically, the two-dots diacritic for the Swedish letters ⟨ä⟩ and ⟨ö⟩ developed from a small Gothic ⟨e⟩ written above the letters. These letters are collated after ⟨z⟩, in the order ⟨å⟩, ⟨ä⟩, ⟨ö⟩.
+Romance
+In Asturian, Galician and Spanish, the character ⟨ñ⟩ is a letter and collated between n and o.
+Asturian uses an underdot: ⟨Ḷ⟩ (lower case, ⟨ḷ⟩), and ⟨Ḥ⟩ (lower case ⟨ḥ⟩)[7]
+Catalan uses the acute accent ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩, the grave accent ⟨à⟩, ⟨è⟩, ⟨ò⟩, the diaeresis ⟨ï⟩, ⟨ü⟩, the cedilla ⟨ç⟩, and the interpunct ⟨l·l⟩.
+In Valencian, the circumflex ⟨â⟩, ⟨ê⟩, ⟨î⟩, ⟨ô⟩, ⟨û⟩ may also be used.
+Corsican uses the following in its alphabet: ⟨À⟩/⟨à⟩, ⟨È⟩/⟨è⟩, ⟨Ì⟩/⟨ì⟩, ⟨Ò⟩/⟨ò⟩, ⟨Ù⟩/⟨ù⟩.
+French uses four diacritics, appearing on vowels (circumflex, acute, grave, diaeresis) and the cedilla appearing in ⟨ç⟩.
+Italian uses two diacritics, appearing on vowels (acute, grave)
+Leonese: could use ⟨ñ⟩ or ⟨nn⟩.
+Portuguese uses a tilde with the vowels ⟨a⟩ and ⟨o⟩ and a cedilla with c.
+Romanian uses a breve on the letter a (⟨ă⟩) to indicate the sound schwa /ə/, as well as a circumflex over the letters a (⟨â⟩) and i (⟨î⟩) for the sound /ɨ/. Romanian also writes a comma below the letters s (⟨ș⟩) and t (⟨ț⟩) to represent the sounds /ʃ/ and /t͡s/, respectively. These characters are collated after their non-diacritic equivalent.
+Spanish uses acute accents (⟨á⟩, ⟨é⟩, ⟨í⟩, ⟨ó⟩, ⟨ú⟩) to indicate stress falling on a different syllable than the one it would fall on based on default rules, and to distinguish certain one-syllable homonyms (e.g. el (masculine singular definite article) and él [he]). The acute accent is also used to break up sequences of vowels that would normally be pronounced as a diphthong into two syllables, as in the word reír. Diaeresis is used on u only, to distinguish the combinations gue, gui /ge/, /gi/ from güe, güi /gwe/, /gwi/, e.g. vergüenza, lingüística. The tilde on ⟨ñ⟩ is not considered a diacritic as ⟨ñ⟩ is considered a distinct letter from ⟨n⟩, not a mutated form of it.
+Slavic
+Gaj's Latin alphabet, used in Croatian and latinized Serbian, has the symbols ⟨č⟩, ⟨ć⟩, ⟨đ⟩, ⟨š⟩ and ⟨ž⟩, which are considered separate letters and are listed as such in dictionaries and other contexts in which words are listed according to alphabetical order. It also has one digraph including a diacritic, dž, which is also alphabetized independently, and follows ⟨d⟩ and precedes ⟨đ⟩ in the alphabetical order.
+The Czech alphabet uses the acute (lowercase á é í ó ú ý, uppercase Á É Í Ó Ú Ý), caron (lowercase č ď ě ň ř š ť ž, uppercase Č Ď Ě Ň Ř Š Ť Ž), and for one letter (lowercase ů, uppercase Ů) the ring. (In ď and ť the caron is modified to look rather like an apostrophe.) Letter with caron are considered separate letters, whereas vowels are considered only as longer variants of the unaccented letters. Acute does not affect alphabetical order, letters with caron are ordered after original counterparts.
+Polish has the following letters: ą ć ę ł ń ó ś ź ż. These are considered to be separate letters: each of them is placed in the alphabet immediately after its Latin counterpart (e.g. ⟨ą⟩ between ⟨a⟩ and ⟨b⟩), ⟨ź⟩ and ⟨ż⟩ are placed after ⟨z⟩ in that order.
+The Serbian Cyrillic alphabet has no diacritics, instead it has a grapheme (glyph) for every letter of its Latin counterpart (including Latin letters with diacritics and the digraphs dž, lj and nj).
+The Slovak alphabet uses the acute (lowercase á é í ó ú ý ĺ ŕ, uppercase Á É Í Ó Ú Ý Ĺ Ŕ), caron (lowercase č ď ľ ň š ť ž dž, uppercase Č Ď Ľ Ň Š Ť Ž DŽ), umlaut (ä Ä) and circumflex accent (ô Ô). All of those are considered separate letters and are placed directly after the original counterpart in the alphabet.[8]
+The basic Slovenian alphabet has the symbols ⟨č⟩, ⟨š⟩, and ⟨ž⟩, which are considered separate letters and are listed as such in dictionaries and other contexts in which words are listed according to alphabetical order. Letters with a caron are placed right after the letters as written without the diacritic. The letter ⟨đ⟩ ('d with bar') may be used in non-transliterated foreign words, particularly names, and is placed after ⟨č⟩ and before ⟨d⟩.
+Turkic
+Azerbaijani includes the distinct Turkish alphabet letters Ç, Ğ, I, İ, Ö, Ş and Ü.
+Crimean Tatar includes the distinct Turkish alphabet letters Ç, Ğ, I, İ, Ö, Ş and Ü. Unlike Turkish, Crimean Tatar also has the letter Ñ.
+Gagauz includes the distinct Turkish alphabet letters Ç, Ğ, I, İ, Ö and Ü. Unlike Turkish, Gagauz also has the letters Ä, Ê Ș and Ț. Ș and Ț are derived from the Romanian alphabet for the same sounds. Sometime the Turkish Ş may be used instead of Ș.
+Turkish uses a ⟨G⟩ with a breve (⟨Ğ⟩), two letters with two dots (⟨Ö⟩ and ⟨Ü⟩, representing two rounded front vowels), two letters with a cedilla (⟨Ç⟩ and ⟨Ş⟩, representing the affricate /tʃ/ and the fricative /ʃ/), and also possesses a dotted capital ⟨İ⟩ (and a dotless lowercase ⟨ı⟩ representing a high unrounded back vowel). In Turkish each of these are separate letters, rather than versions of other letters, where dotted capital ⟨İ⟩ and lower case ⟨i⟩ are the same letter, as are dotless capital ⟨I⟩ and lowercase ⟨ı⟩. Typographically, ⟨Ç⟩ and ⟨Ş⟩ are sometimes rendered with an underdot, as in ⟨Ṣ⟩. The new Azerbaijani, Crimean Tatar, and Gagauz alphabets are based on the Turkish alphabet and its same diacriticized letters, with some additions.
+Turkmen includes the distinct Turkish alphabet letters Ç, Ö, Ş and Ü. In addition, Turkmen uses A with diaeresis (Ä) to represent /æ/, N with caron (⟨Ň⟩) to represent the velar nasal /ŋ/, Y with acute (⟨Ý⟩) to represent the palatal approximant /j/, and Z with caron (⟨Ž⟩) to represent /ʒ/.
+Other
+Albanian has two special letters Ç and Ë upper and lowercase. They are placed next to the most similar letters in the alphabet, c and e correspondingly.
+Esperanto has the symbols ŭ, ĉ, ĝ, ĥ, ĵ and ŝ, which are included in the alphabet, and considered separate letters.
+Filipino also has the character ñ as a letter and is collated between letters n and ng.
+Modern Greenlandic does not use any diacritics, although ø and å are used to spell loanwords, especially from Danish and English.[9][10] From 1851 until 1973, Greenlandic was written in an alphabet invented by Samuel Kleinschmidt, where long vowels and geminate consonants were indicated by diacritics on vowels (in the case of consonant gemination, the diacritics were placed on the vowel preceding the affected consonant). For example, the name Kalaallit Nunaat was spelled Kalâdlit Nunât. This scheme uses the circumflex (◌̂) to indicate a long vowel (e.g. ⟨ât, ît, ût⟩; modern: ⟨aat, iit, uut⟩), an acute accent (◌́) to indicate gemination of the following consonant: (i.e. ⟨ák, ík, úk⟩; modern: ⟨akk, ikk, ukk⟩) and, finally, a tilde (◌̃) or a grave accent (◌̀), depending on the author, indicates vowel length and gemination of the following consonant (e.g. ⟨ãt/àt, ĩt/ìt, ũt/ùt⟩; modern: ⟨aatt, iitt, uutt⟩). ⟨ê, ô⟩, used only before ⟨r, q⟩, are now written ⟨ee, oo⟩ in Greenlandic.
+Hawaiian uses the kahakō (macron) over vowels, although there is some disagreement over considering them as individual letters. The kahakō over a vowel can completely change the meaning of a word that is spelled the same but without the kahakō.
+Kurdish uses the symbols Ç, Ê, Î, Ş and Û with other 26 standard Latin alphabet symbols.
+Lakota alphabet uses the caron for the letters č, ȟ, ǧ, š, and ž. It also uses the acute accent for stressed vowels á, é, í, ó, ú, áŋ, íŋ, úŋ.
+Malay uses some diacritics such as á, ā, ç, í, ñ, ó, š, ú. Uses of diacritics was continued until late 19th century except ā and ē.
+Maltese uses a C, G, and Z with a dot over them (Ċ, Ġ, Ż), and also has an H with an extra horizontal bar. For uppercase H, the extra bar is written slightly above the usual bar. For lowercase H, the extra bar is written crossing the vertical, like a t, and not touching the lower part (Ħ, ħ). The above characters are considered separate letters. The letter 'c' without a dot has fallen out of use due to redundancy. 'Ċ' is pronounced like the English 'ch' and 'k' is used as a hard c as in 'cat'. 'Ż' is pronounced just like the English 'Z' as in 'Zebra', while 'Z' is used to make the sound of 'ts' in English (like 'tsunami' or 'maths'). 'Ġ' is used as a soft 'G' like in 'geometry', while the 'G' sounds like a hard 'G' like in 'log'. The digraph 'għ' (called għajn after the Arabic letter name ʻayn for غ) is considered separate, and sometimes ordered after 'g', whilst in other volumes it is placed between 'n' and 'o' (the Latin letter 'o' originally evolved from the shape of Phoenician ʻayin, which was traditionally collated after Phoenician nūn).
+The romanization of Syriac uses the altered letters of. Ā, Č, Ḏ, Ē, Ë, Ġ, Ḥ, Ō, Š, Ṣ, Ṭ, Ū, Ž alongside the 26 standard Latin alphabet symbols.[11]
+Vietnamese uses the horn diacritic for the letters ơ and ư; the circumflex for the letters â, ê, and ô; the breve for the letter ă; and a bar through the letter đ. Separately, it also has á, à, ả, ã and ạ, the five tones used for vowels besides the flat tone 'a'.
+Cyrillic letters
+Further information: Cyrillic script
+Belarusian and Uzbek Cyrillic have a letter ⟨ў⟩.
+Belarusian, Bulgarian, Russian and Ukrainian have the letter ⟨й⟩.
+Belarusian and Russian have the letter ⟨ё⟩. In Russian, this letter is usually replaced by ⟨е⟩, although it has a different pronunciation. The use of ⟨е⟩ instead of ⟨ё⟩ does not affect the pronunciation. Ё is always used in children's books and in dictionaries. A minimal pair is все (vs'e, "everybody" pl.) and всё (vs'o, "everything" n. sg.). In Belarusian the replacement by ⟨е⟩ is a mistake; in Russian, it is permissible to use either ⟨е⟩ or ⟨ё⟩ for ⟨ё⟩ but the former is more common in everyday writing (as opposed to instructional or juvenile writing).
+The Cyrillic Ukrainian alphabet has the letters ⟨ґ⟩, ⟨й⟩ and ⟨ї⟩. Ukrainian Latynka has many more.
+Macedonian has the letters ⟨ќ⟩ and ⟨ѓ⟩.
+In Bulgarian and Macedonian the possessive pronoun ѝ (ì, "her") is spelled with a grave accent in order to distinguish it from the conjunction и (i, "and").
+The acute accent ◌́ above any vowel in Cyrillic alphabets is used in dictionaries, books for children and foreign learners to indicate the word stress, it also can be used for disambiguation of similarly spelled words with different lexical stresses.
+Diacritics that do not produce new letters
+
+Blackboard used in class at Harvard shows students' efforts at placing the ü and acute accent diacritic used in Spanish orthography.
+English
+Main article: English terms with diacritical marks
+English is one of the few European languages that does not have many words that contain diacritical marks. Instead, digraphs are the main way the Modern English alphabet adapts the Latin to its phonemes. Exceptions are unassimilated foreign loanwords, including borrowings from French (and, increasingly, Spanish, like jalapeño and piñata); however, the diacritic is also sometimes omitted from such words. Loanwords that frequently appear with the diacritic in English include café, résumé or resumé (a usage that helps distinguish it from the verb resume), soufflé, and naïveté (see English terms with diacritical marks). In older practice (and even among some orthographically conservative modern writers), one may see examples such as élite, mêlée and rôle.
+
+English speakers and writers once used the diaeresis more often than now in words such as coöperation (from Fr. coopération), zoölogy (from Grk. zoologia), and seeër (now more commonly see-er or simply seer) as a way of indicating that adjacent vowels belonged to separate syllables, but this practice has become far less common. The New Yorker magazine is a major publication that continues to use the diaeresis in place of a hyphen for clarity and economy of space.[12]
+
+A few English words, often when used out of context, especially in isolation, can only be distinguished from other words of the same spelling by using a diacritic or modified letter. These include exposé, lamé, maté, öre, øre, résumé and rosé. In a few words, diacritics that did not exist in the original have been added for disambiguation, as in maté (from Sp. and Port. mate), saké (the standard Romanization of the Japanese has no accent mark), and Malé (from Dhivehi މާލެ), to clearly distinguish them from the English words mate, sake, and male.
+
+The acute and grave accents are occasionally used in poetry and lyrics: the acute to indicate stress overtly where it might be ambiguous (rébel vs. rebél) or nonstandard for metrical reasons (caléndar), the grave to indicate that an ordinarily silent or elided syllable is pronounced (warnèd, parlìament).
+
+In certain personal names such as Renée and Zoë, often two spellings exist, and the person's own preference will be known only to those close to them. Even when the name of a person is spelled with a diacritic, like Charlotte Brontë, this may be dropped in English-language articles, and even in official documents such as passports, due either to carelessness, the typist not knowing how to enter letters with diacritical marks, or technical reasons (California, for example, does not allow[clarification needed] names with diacritics, as the computer system cannot process such characters). They also appear in some worldwide company names and/or trademarks, such as Nestlé and Citroën.
+
+Other languages
+The following languages have letter-diacritic combinations that are not considered independent letters.
+
+Afrikaans uses a diaeresis to mark vowels that are pronounced separately and not as one would expect where they occur together, for example voel (to feel) as opposed to voël (bird). The circumflex is used in ê, î, ô and û generally to indicate long close-mid, as opposed to open-mid vowels, for example in the words wêreld (world) and môre (morning, tomorrow). The acute accent is used to add emphasis in the same way as underlining or writing in bold or italics in English, for example Dit is jóú boek (It is your book). The grave accent is used to distinguish between words that are different only in placement of the stress, for example appel (apple) and appèl (appeal) and in a few cases where it makes no difference to the pronunciation but distinguishes between homophones. The two most usual cases of the latter are in the sayings òf... òf (either... or) and nòg... nòg (neither... nor) to distinguish them from of (or) and nog (again, still).
+Aymara uses a diacritical horn over p, q, t, k, ch.
+Catalan has the following composite characters: à, ç, é, è, í, ï, ó, ò, ú, ü, l·l. The acute and the grave indicate stress and vowel height, the cedilla marks the result of a historical palatalization, the diaeresis indicates either a hiatus, or that the letter u is pronounced when the graphemes gü, qü are followed by e or i, the interpunct (·) distinguishes the different values of ll/l·l.
+Some orthographies of Cornish such as Kernowek Standard and Unified Cornish use diacritics, while others such as Kernewek Kemmyn and the Standard Written Form do not (or only use them optionally in teaching materials).
+Dutch uses the diaeresis. For example, in ruïne it means that the u and the i are separately pronounced in their usual way, and not in the way that the combination ui is normally pronounced. Thus it works as a separation sign and not as an indication for an alternative version of the i. Diacritics can be used for emphasis (érg koud for very cold) or for disambiguation between a number of words that are spelled the same when context does not indicate the correct meaning (één appel = one apple, een appel = an apple; vóórkomen = to occur, voorkómen = to prevent). Grave and acute accents are used on a very small number of words, mostly loanwords. The ç also appears in some loanwords.[13]
+Faroese. Non-Faroese accented letters are not added to the Faroese alphabet. These include é, ö, ü, å and recently also letters like š, ł, and ć.
+Filipino has the following composite characters: á, à, â, é, è, ê, ë, ë́, ë̀, ë̂, í, ì, î, ó, ò, ô, ú, ù, û. Everyday use of diacritics for Filipino is, however, uncommon, and meant only to distinguish between homonyms between a word with the usual penultimate stress and one with a different stress placement. This aids both comprehension and pronunciation if both are relatively adjacent in a text, or if a word is itself ambiguous in meaning. The letter ñ ("eñe") is not a n with a diacritic, but rather collated as a separate letter, one of eight borrowed from Spanish. Diacritics appear in Spanish loanwords and names observing Spanish orthography rules. ë is only used to mark the schwa (/ə/).
+Finnish. Carons in š and ž appear only in foreign proper names and loanwords, but may be substituted with sh or zh if and only if it is technically impossible to produce accented letters in the medium. Contrary to Estonian, š and ž are not considered distinct letters in Finnish.
+French uses five diacritics. The grave (accent grave) marks the sound /ɛ/ when over an e, as in père ("father") or is used to distinguish words that are otherwise homographs such as a/à ("has"/"to") or ou/où ("or"/"where"). The acute (accent aigu) is only used in "é", modifying the "e" to make the sound /e/, as in étoile ("star"). The circumflex (accent circonflexe) generally denotes that an "s" once followed the vowel in Old French or Latin, as in fête ("party"), the Old French being feste and the Latin being festum. Whether the circumflex modifies the vowel's pronunciation depends on the dialect and the vowel. The cedilla (cédille) indicates that a normally hard "c" (before the vowels "a", "o", and "u") is to be pronounced /s/, as in ça ("that"). The diaeresis diacritic (French: tréma) indicates that two adjacent vowels that would normally be pronounced as one are to be pronounced separately, as in Noël ("Christmas").
+Galician vowels can bear an acute (á, é, í, ó, ú) to indicate stress or difference between two otherwise same written words (é, 'is' vs. e, 'and'), but the diaeresis is only used with ï and ü to show two separate vowel sounds in pronunciation. Only in foreign words may Galician use other diacritics such as ç (common during the Middle Ages), ê, or à.
+German uses the three umlauted characters ä, ö and ü. These diacritics indicate vowel changes. For instance, the word Ofen [ˈoːfən] "oven" has the plural Öfen [ˈøːfən]. The mark originated as a superscript e; a handwritten blackletter e resembles two parallel vertical lines, like a diaeresis. Due to this history, "ä", "ö" and "ü" can be written as "ae", "oe" and "ue" respectively, if the umlaut letters are not available.
+Hebrew has many various diacritic marks known as niqqud that are used above and below script to represent vowels. These must be distinguished from cantillation, which are keys to pronunciation and syntax.
+The International Phonetic Alphabet uses diacritic symbols and characters to indicate phonetic features or secondary articulations.
+Irish uses the acute to indicate that a vowel is long: á, é, í, ó, ú. It is known as síneadh fada "long sign" or simply fada "long" in Irish. In the older Gaelic type, overdots are used to indicate lenition of a consonant: ḃ, ċ, ḋ, ḟ, ġ, ṁ, ṗ, ṡ, ṫ.
+Italian mainly has the acute and the grave (à, è/é, ì, ò/ó, ù), typically to indicate a stressed syllable that would not be stressed under the normal rules of pronunciation but sometimes also to distinguish between words that are otherwise spelled the same way (e.g. "e", and; "è", is). Despite its rare use, Italian orthography allows the circumflex (î) too, in two cases: it can be found in old literary context (roughly up to 19th century) to signal a syncope (fêro→fecero, they did), or in modern Italian to signal the contraction of ″-ii″ due to the plural ending -i whereas the root ends with another -i; e.g., s. demonio, p. demonii→demonî; in this case the circumflex also signals that the word intended is not demoni, plural of "demone" by shifting the accent (demònî, "devils"; dèmoni, "demons").
+Lithuanian uses the acute, grave and tilde in dictionaries to indicate stress types in the language's pitch accent system.
+Maltese also uses the grave on its vowels to indicate stress at the end of a word with two syllables or more:– lowercase letters: à, è, ì, ò, ù; capital letters: À, È, Ì, Ò, Ù
+Māori makes use of macrons to mark long vowels.
+Occitan has the following composite characters: á, à, ç, é, è, í, ï, ó, ò, ú, ü, n·h, s·h. The acute and the grave indicate stress and vowel height, the cedilla marks the result of a historical palatalization, the diaeresis indicates either a hiatus, or that the letter u is pronounced when the graphemes gü, qü are followed by e or i, and the interpunct (·) distinguishes the different values of nh/n·h and sh/s·h (i.e., that the letters are supposed to be pronounced separately, not combined into "ny" and "sh").
+Portuguese has the following composite characters: à, á, â, ã, ç, é, ê, í, ó, ô, õ, ú. The acute and the circumflex indicate stress and vowel height, the grave indicates crasis, the tilde represents nasalization, and the cedilla marks the result of a historical lenition.
+Acutes are also used in Slavic language dictionaries and textbooks to indicate lexical stress, placed over the vowel of the stressed syllable. This can also serve to disambiguate meaning (e.g., in Russian писа́ть (pisáť) means "to write", but пи́сать (písať) means "to piss"), or "бо́льшая часть" (the biggest part) vs "больша́я часть" (the big part).
+Spanish uses the acute and the diaeresis. The acute is used on a vowel in a stressed syllable in words with irregular stress patterns. It can also be used to "break up" a diphthong as in tío (pronounced [ˈti.o], rather than [ˈtjo] as it would be without the accent). Moreover, the acute can be used to distinguish words that otherwise are spelled alike, such as si ("if") and sí ("yes"), and also to distinguish interrogative and exclamatory pronouns from homophones with a different grammatical function, such as donde/¿dónde? ("where"/"where?") or como/¿cómo? ("as"/"how?"). The acute may also be used to avoid typographical ambiguity, as in 1 ó 2 ("1 or 2"; without the acute this might be interpreted as "1 0 2". The diaeresis is used only over u (ü) for it to be pronounced [w] in the combinations gue and gui, where u is normally silent, for example ambigüedad. In poetry, the diaeresis may be used on i and u as a way to force a hiatus. As foreshadowed above, in nasal ñ the tilde (squiggle) is not considered a diacritic sign at all, but a composite part of a distinct glyph, with its own chapter in the dictionary: a glyph that denotes the 15th letter of the Spanish alphabet.
+Swedish uses the acute to show non-standard stress, for example in kafé (café) and resumé (résumé). This occasionally helps resolve ambiguities, such as ide (hibernation) versus idé (idea). In these words, the acute is not optional. Some proper names use non-standard diacritics, such as Carolina Klüft and Staël von Holstein. For foreign loanwords the original accents are strongly recommended, unless the word has been infused into the language, in which case they are optional. Hence crème fraîche but ampere. Swedish also has the letters å, ä, and ö, but these are considered distinct letters, not a and o with diacritics.
+Tamil does not have any diacritics in itself, but uses the Arabic numerals 2, 3 and 4 as diacritics to represent aspirated, voiced, and voiced-aspirated consonants when Tamil script is used to write long passages in Sanskrit.
+Thai has its own system of diacritics derived from Indian numerals, which denote different tones.
+Vietnamese uses the acute (dấu sắc), the grave (dấu huyền), the tilde (dấu ngã), the underdot (dấu nặng) and the hook above (dấu hỏi) on vowels as tone indicators.
+Welsh uses the circumflex, diaeresis, acute, and grave on its seven vowels a, e, i, o, u, w, y. The most common is the circumflex (which it calls to bach, meaning "little roof", or acen grom "crooked accent", or hirnod "long sign") to denote a long vowel, usually to disambiguate it from a similar word with a short vowel or a semivowel. The rarer grave accent has the opposite effect, shortening vowel sounds that would usually be pronounced long. The acute accent and diaeresis are also occasionally used, to denote stress and vowel separation respectively. The w-circumflex ŵ and the y-circumflex ŷ are among the most commonly accented characters in Welsh, but unusual in languages generally, and were until recently very hard to obtain in word-processed and HTML documents.
+Transliteration
+Several languages that are not written with the Roman alphabet are transliterated, or romanized, using diacritics. Examples:
+
+Arabic has several romanisations, depending on the type of the application, region, intended audience, country, etc. many of them extensively use diacritics, e.g., some methods use an underdot for rendering emphatic consonants (ṣ, ṭ, ḍ, ẓ, ḥ). The macron is often used to render long vowels. š is often used for /ʃ/, ġ for /ɣ/.
+Chinese has several romanizations that use the umlaut, but only on u (ü). In Hanyu Pinyin, the four tones of Mandarin Chinese are denoted by the macron (first tone), acute (second tone), caron (third tone) and grave (fourth tone) diacritics. Example: ā, á, ǎ, à.
+Romanized Japanese (Rōmaji) occasionally uses macrons to mark long vowels. The Hepburn romanization system uses macrons to mark long vowels, and the Kunrei-shiki and Nihon-shiki systems use a circumflex.
+Sanskrit, as well as many of its descendants, like Hindi and Bengali, uses a lossless romanization system, IAST. This includes several letters with diacritical markings, such as the macron (ā, ī, ū), over- and underdots (ṛ, ḥ, ṃ, ṇ, ṣ, ṭ, ḍ) as well as a few others (ś, ñ).
+Limits
+Orthographic
+Possibly the greatest number of combining diacritics required to compose a valid character in any Unicode language is 8, for the "well-known grapheme cluster in Tibetan and Ranjana scripts" or HAKṢHMALAWARAYAṀ.[14]
+
+It consists of
+
+U+0F67 ཧ TIBETAN LETTER HA
+U+0F90 ྐ TIBETAN SUBJOINED LETTER KA
+U+0FB5 ྵ TIBETAN SUBJOINED LETTER SSA
+U+0FA8 ྨ TIBETAN SUBJOINED LETTER MA
+U+0FB3 ླ TIBETAN SUBJOINED LETTER LA
+U+0FBA ྺ TIBETAN SUBJOINED LETTER FIXED-FORM WA
+U+0FBC ྼ TIBETAN SUBJOINED LETTER FIXED-FORM RA
+U+0FBB ྻ TIBETAN SUBJOINED LETTER FIXED-FORM YA
+U+0F82 ྂ TIBETAN SIGN NYI ZLA NAA DA
+An example of the rendering, which may be broken depending on the browser used:
+
+ཧྐྵྨླྺྼྻྂ
+
+Unorthographic/ornamental
+
+Some users have explored the limits of rendering in web browsers and other software by "decorating" words with excessive nonsensical diacritics per character to produce so-called Zalgo text.
+
+List of diacritics in Unicode 
+Diacritics for Latin script in Unicode:
+
+Diacritics in Unicode for Latin script 
+Character	Character name
+Unicode code point	Mark	General category	Script
+◌̀	
+COMBINING GRAVE ACCENT
+U+0300
+Grave	Mn: Mark, nonspacing	Inherited
+◌́	
+COMBINING ACUTE ACCENT
+U+0301
+Acute	Mn: Mark, nonspacing	Inherited
+◌̂	
+COMBINING CIRCUMFLEX ACCENT
+U+0302
+Circumflex	Mn: Mark, nonspacing	Inherited
+◌̃	
+COMBINING TILDE
+U+0303
+Tilde	Mn: Mark, nonspacing	Inherited
+◌̄	
+COMBINING MACRON
+U+0304
+Macron	Mn: Mark, nonspacing	Inherited
+◌̅	
+COMBINING OVERLINE
+U+0305
+Overline	Mn: Mark, nonspacing	Inherited
+◌̆	
+COMBINING BREVE
+U+0306
+Breve	Mn: Mark, nonspacing	Inherited
+◌̇	
+COMBINING DOT ABOVE
+U+0307
+Dot	Mn: Mark, nonspacing	Inherited
+◌̈	
+COMBINING DIAERESIS
+U+0308
+Diaeresis	Mn: Mark, nonspacing	Inherited
+◌̉	
+COMBINING HOOK ABOVE
+U+0309
+Hook	Mn: Mark, nonspacing	Inherited
+◌̊	
+COMBINING RING ABOVE
+U+030A
+Ring	Mn: Mark, nonspacing	Inherited
+◌̋	
+COMBINING DOUBLE ACUTE ACCENT
+U+030B
+Double acute	Mn: Mark, nonspacing	Inherited
+◌̌	
+COMBINING CARON
+U+030C
+Caron	Mn: Mark, nonspacing	Inherited
+◌̍	
+COMBINING VERTICAL LINE ABOVE
+U+030D
+Vertical line	Mn: Mark, nonspacing	Inherited
+◌̎	
+COMBINING DOUBLE VERTICAL LINE ABOVE
+U+030E
+Double vertical line	Mn: Mark, nonspacing	Inherited
+◌̏	
+COMBINING DOUBLE GRAVE ACCENT
+U+030F
+Double grave	Mn: Mark, nonspacing	Inherited
+◌̐	
+COMBINING CANDRABINDU
+U+0310
+Candrabindu	Mn: Mark, nonspacing	Inherited
+◌̑	
+COMBINING INVERTED BREVE
+U+0311
+Inverted breve	Mn: Mark, nonspacing	Inherited
+◌̒	
+COMBINING TURNED COMMA ABOVE
+U+0312
+Turned comma	Mn: Mark, nonspacing	Inherited
+◌̓	
+COMBINING COMMA ABOVE
+U+0313
+Comma	Mn: Mark, nonspacing	Inherited
+◌̔	
+COMBINING REVERSED COMMA ABOVE
+U+0314
+Reversed comma	Mn: Mark, nonspacing	Inherited
+◌̕	
+COMBINING COMMA ABOVE RIGHT
+U+0315
+Comma right	Mn: Mark, nonspacing	Inherited
+◌̖	
+COMBINING GRAVE ACCENT BELOW
+U+0316
+Grave	Mn: Mark, nonspacing	Inherited
+◌̗	
+COMBINING ACUTE ACCENT BELOW
+U+0317
+Acute	Mn: Mark, nonspacing	Inherited
+◌̘	
+COMBINING LEFT TACK BELOW
+U+0318
+Left tack	Mn: Mark, nonspacing	Inherited
+◌̙	
+COMBINING RIGHT TACK BELOW
+U+0319
+Right tack	Mn: Mark, nonspacing	Inherited
+◌̚	
+COMBINING LEFT ANGLE ABOVE
+U+031A
+Left angle	Mn: Mark, nonspacing	Inherited
+◌̛	
+COMBINING HORN
+U+031B
+Horn	Mn: Mark, nonspacing	Inherited
+◌̜	
+COMBINING LEFT HALF RING BELOW
+U+031C
+Left half ring	Mn: Mark, nonspacing	Inherited
+◌̝	
+COMBINING UP TACK BELOW
+U+031D
+Up tack	Mn: Mark, nonspacing	Inherited
+◌̞	
+COMBINING DOWN TACK BELOW
+U+031E
+Down tack	Mn: Mark, nonspacing	Inherited
+◌̟	
+COMBINING PLUS SIGN BELOW
+U+031F
+Plus sign	Mn: Mark, nonspacing	Inherited
+◌̠	
+COMBINING MINUS SIGN BELOW
+U+0320
+Minus sign	Mn: Mark, nonspacing	Inherited
+◌̡	
+COMBINING PALATALIZED HOOK BELOW
+U+0321
+Palatalized hook	Mn: Mark, nonspacing	Inherited
+◌̢	
+COMBINING RETROFLEX HOOK BELOW
+U+0322
+Retroflex hook	Mn: Mark, nonspacing	Inherited
+◌̣	
+COMBINING DOT BELOW
+U+0323
+Dot	Mn: Mark, nonspacing	Inherited
+◌̤	
+COMBINING DIAERESIS BELOW
+U+0324
+Diaeresis	Mn: Mark, nonspacing	Inherited
+◌̥	
+COMBINING RING BELOW
+U+0325
+Ring	Mn: Mark, nonspacing	Inherited
+◌̦	
+COMBINING COMMA BELOW
+U+0326
+Comma	Mn: Mark, nonspacing	Inherited
+◌̧	
+COMBINING CEDILLA
+U+0327
+Cedilla	Mn: Mark, nonspacing	Inherited
+◌̨	
+COMBINING OGONEK
+U+0328
+Ogonek	Mn: Mark, nonspacing	Inherited
+◌̩	
+COMBINING VERTICAL LINE BELOW
+U+0329
+Vertical line	Mn: Mark, nonspacing	Inherited
+◌̪	
+COMBINING BRIDGE BELOW
+U+032A
+Bridge	Mn: Mark, nonspacing	Inherited
+◌̫	
+COMBINING INVERTED DOUBLE ARCH BELOW
+U+032B
+Double arch	Mn: Mark, nonspacing	Inherited
+◌̬	
+COMBINING CARON BELOW
+U+032C
+Caron	Mn: Mark, nonspacing	Inherited
+◌̭	
+COMBINING CIRCUMFLEX ACCENT BELOW
+U+032D
+Circumflex	Mn: Mark, nonspacing	Inherited
+◌̮	
+COMBINING BREVE BELOW
+U+032E
+Breve	Mn: Mark, nonspacing	Inherited
+◌̯	
+COMBINING INVERTED BREVE BELOW
+U+032F
+Inverted breve	Mn: Mark, nonspacing	Inherited
+◌̰	
+COMBINING TILDE BELOW
+U+0330
+Tilde	Mn: Mark, nonspacing	Inherited
+◌̱	
+COMBINING MACRON BELOW
+U+0331
+Macron	Mn: Mark, nonspacing	Inherited
+◌̲	
+COMBINING LOW LINE
+U+0332
+Low line	Mn: Mark, nonspacing	Inherited
+◌̳	
+COMBINING DOUBLE LOW LINE
+U+0333
+Double low line	Mn: Mark, nonspacing	Inherited
+◌̴	
+COMBINING TILDE OVERLAY
+U+0334
+Tilde overlay	Mn: Mark, nonspacing	Inherited
+◌̵	
+COMBINING SHORT STROKE OVERLAY
+U+0335
+Short stroke overlay	Mn: Mark, nonspacing	Inherited
+◌̶	
+COMBINING LONG STROKE OVERLAY
+U+0336
+Long stroke overlay	Mn: Mark, nonspacing	Inherited
+◌̷	
+COMBINING SHORT SOLIDUS OVERLAY
+U+0337
+Short solidus overlay	Mn: Mark, nonspacing	Inherited
+◌̸	
+COMBINING LONG SOLIDUS OVERLAY
+U+0338
+Long solidus overlay	Mn: Mark, nonspacing	Inherited
+◌̹	
+COMBINING RIGHT HALF RING BELOW
+U+0339
+Right half ring	Mn: Mark, nonspacing	Inherited
+◌̺	
+COMBINING INVERTED BRIDGE BELOW
+U+033A
+Inverted bridge	Mn: Mark, nonspacing	Inherited
+◌̻	
+COMBINING SQUARE BELOW
+U+033B
+Square	Mn: Mark, nonspacing	Inherited
+◌̼	
+COMBINING SEAGULL BELOW
+U+033C
+Seagull	Mn: Mark, nonspacing	Inherited
+◌̽	
+COMBINING X ABOVE
+U+033D
+X	Mn: Mark, nonspacing	Inherited
+◌̾	
+COMBINING VERTICAL TILDE
+U+033E
+Vertical tilde	Mn: Mark, nonspacing	Inherited
+◌̿	
+COMBINING DOUBLE OVERLINE
+U+033F
+Double overline	Mn: Mark, nonspacing	Inherited
+◌̀	
+COMBINING GRAVE TONE MARK
+U+0340
+Grave tone	Mn: Mark, nonspacing	Inherited
+◌́	
+COMBINING ACUTE TONE MARK
+U+0341
+Acute tone	Mn: Mark, nonspacing	Inherited
+◌͆	
+COMBINING BRIDGE ABOVE
+U+0346
+Bridge	Mn: Mark, nonspacing	Inherited
+◌͇	
+COMBINING EQUALS SIGN BELOW
+U+0347
+Equals sign	Mn: Mark, nonspacing	Inherited
+◌͈	
+COMBINING DOUBLE VERTICAL LINE BELOW
+U+0348
+Double vertical line	Mn: Mark, nonspacing	Inherited
+◌͉	
+COMBINING LEFT ANGLE BELOW
+U+0349
+Left angle	Mn: Mark, nonspacing	Inherited
+◌͊	
+COMBINING NOT TILDE ABOVE
+U+034A
+Not tilde	Mn: Mark, nonspacing	Inherited
+◌͋	
+COMBINING HOMOTHETIC ABOVE
+U+034B
+Homothetic	Mn: Mark, nonspacing	Inherited
+◌͌	
+COMBINING ALMOST EQUAL TO ABOVE
+U+034C
+Almost equal to	Mn: Mark, nonspacing	Inherited
+◌͍	
+COMBINING LEFT RIGHT ARROW BELOW
+U+034D
+Left right arrow	Mn: Mark, nonspacing	Inherited
+◌͎	
+COMBINING UPWARDS ARROW BELOW
+U+034E
+Upwards arrow	Mn: Mark, nonspacing	Inherited
+◌͐	
+COMBINING RIGHT ARROWHEAD ABOVE
+U+0350
+Right arrowhead	Mn: Mark, nonspacing	Inherited
+◌͑	
+COMBINING LEFT HALF RING ABOVE
+U+0351
+Left half ring	Mn: Mark, nonspacing	Inherited
+◌͒	
+COMBINING FERMATA
+U+0352
+Fermata	Mn: Mark, nonspacing	Inherited
+◌͓	
+COMBINING X BELOW
+U+0353
+X	Mn: Mark, nonspacing	Inherited
+◌͔	
+COMBINING LEFT ARROWHEAD BELOW
+U+0354
+Left arrowhead	Mn: Mark, nonspacing	Inherited
+◌͕	
+COMBINING RIGHT ARROWHEAD BELOW
+U+0355
+Right arrowhead	Mn: Mark, nonspacing	Inherited
+◌͖	
+COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW
+U+0356
+Right arrowhead and up arrowhead	Mn: Mark, nonspacing	Inherited
+◌͗	
+COMBINING RIGHT HALF RING ABOVE
+U+0357
+Right half ring	Mn: Mark, nonspacing	Inherited
+◌͘	
+COMBINING DOT ABOVE RIGHT
+U+0358
+Dot right	Mn: Mark, nonspacing	Inherited
+◌͙	
+COMBINING ASTERISK BELOW
+U+0359
+Asterisk	Mn: Mark, nonspacing	Inherited
+◌͚	
+COMBINING DOUBLE RING BELOW
+U+035A
+Double ring	Mn: Mark, nonspacing	Inherited
+◌͛	
+COMBINING ZIGZAG ABOVE
+U+035B
+Zigzag	Mn: Mark, nonspacing	Inherited
+◌͜◌	
+COMBINING DOUBLE BREVE BELOW
+U+035C
+Double breve	Mn: Mark, nonspacing	Inherited
+◌͝◌	
+COMBINING DOUBLE BREVE
+U+035D
+Double breve	Mn: Mark, nonspacing	Inherited
+◌͞◌	
+COMBINING DOUBLE MACRON
+U+035E
+Double macron	Mn: Mark, nonspacing	Inherited
+◌͟◌	
+COMBINING DOUBLE MACRON BELOW
+U+035F
+Double macron	Mn: Mark, nonspacing	Inherited
+◌͠◌	
+COMBINING DOUBLE TILDE
+U+0360
+Double tilde	Mn: Mark, nonspacing	Inherited
+◌͡◌	
+COMBINING DOUBLE INVERTED BREVE
+U+0361
+Double inverted breve	Mn: Mark, nonspacing	Inherited
+◌͢◌	
+COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+U+0362
+Double rightwards arrow	Mn: Mark, nonspacing	Inherited
+◌ͣ	
+COMBINING LATIN SMALL LETTER A
+U+0363
+Latin small letter a	Mn: Mark, nonspacing	Inherited
+◌ͤ	
+COMBINING LATIN SMALL LETTER E
+U+0364
+Latin small letter e	Mn: Mark, nonspacing	Inherited
+◌ͥ	
+COMBINING LATIN SMALL LETTER I
+U+0365
+Latin small letter i	Mn: Mark, nonspacing	Inherited
+◌ͦ	
+COMBINING LATIN SMALL LETTER O
+U+0366
+Latin small letter o	Mn: Mark, nonspacing	Inherited
+◌ͧ	
+COMBINING LATIN SMALL LETTER U
+U+0367
+Latin small letter u	Mn: Mark, nonspacing	Inherited
+◌ͨ	
+COMBINING LATIN SMALL LETTER C
+U+0368
+Latin small letter c	Mn: Mark, nonspacing	Inherited
+◌ͩ	
+COMBINING LATIN SMALL LETTER D
+U+0369
+Latin small letter d	Mn: Mark, nonspacing	Inherited
+◌ͪ	
+COMBINING LATIN SMALL LETTER H
+U+036A
+Latin small letter h	Mn: Mark, nonspacing	Inherited
+◌ͫ	
+COMBINING LATIN SMALL LETTER M
+U+036B
+Latin small letter m	Mn: Mark, nonspacing	Inherited
+◌ͬ	
+COMBINING LATIN SMALL LETTER R
+U+036C
+Latin small letter r	Mn: Mark, nonspacing	Inherited
+◌ͭ	
+COMBINING LATIN SMALL LETTER T
+U+036D
+Latin small letter t	Mn: Mark, nonspacing	Inherited
+◌ͮ	
+COMBINING LATIN SMALL LETTER V
+U+036E
+Latin small letter v	Mn: Mark, nonspacing	Inherited
+◌ͯ	
+COMBINING LATIN SMALL LETTER X
+U+036F
+Latin small letter x	Mn: Mark, nonspacing	Inherited
+◌᪰	
+COMBINING DOUBLED CIRCUMFLEX ACCENT
+U+1AB0
+Doubled circumflex	Mn: Mark, nonspacing	Inherited
+◌᪱	
+COMBINING DIAERESIS-RING
+U+1AB1
+Diaeresis-ring	Mn: Mark, nonspacing	Inherited
+◌᪲	
+COMBINING INFINITY
+U+1AB2
+Infinity	Mn: Mark, nonspacing	Inherited
+◌᪳	
+COMBINING DOWNWARDS ARROW
+U+1AB3
+Downwards arrow	Mn: Mark, nonspacing	Inherited
+◌᪴	
+COMBINING TRIPLE DOT
+U+1AB4
+Triple dot	Mn: Mark, nonspacing	Inherited
+◌᪵	
+COMBINING X-X BELOW
+U+1AB5
+X-x	Mn: Mark, nonspacing	Inherited
+◌᪶	
+COMBINING WIGGLY LINE BELOW
+U+1AB6
+Wiggly line	Mn: Mark, nonspacing	Inherited
+◌᪷	
+COMBINING OPEN MARK BELOW
+U+1AB7
+Open mark	Mn: Mark, nonspacing	Inherited
+◌᪸	
+COMBINING DOUBLE OPEN MARK BELOW
+U+1AB8
+Double open mark	Mn: Mark, nonspacing	Inherited
+◌᪹	
+COMBINING LIGHT CENTRALIZATION STROKE BELOW
+U+1AB9
+Light centralization stroke	Mn: Mark, nonspacing	Inherited
+◌᪺	
+COMBINING STRONG CENTRALIZATION STROKE BELOW
+U+1ABA
+Strong centralization stroke	Mn: Mark, nonspacing	Inherited
+◌᪻	
+COMBINING PARENTHESES ABOVE
+U+1ABB
+Parentheses	Mn: Mark, nonspacing	Inherited
+◌᪼	
+COMBINING DOUBLE PARENTHESES ABOVE
+U+1ABC
+Double parentheses	Mn: Mark, nonspacing	Inherited
+◌᪽	
+COMBINING PARENTHESES BELOW
+U+1ABD
+Parentheses	Mn: Mark, nonspacing	Inherited
+◌ᪿ	
+COMBINING LATIN SMALL LETTER W BELOW
+U+1ABF
+Latin small letter w	Mn: Mark, nonspacing	Inherited
+◌ᫀ	
+COMBINING LATIN SMALL LETTER TURNED W BELOW
+U+1AC0
+Latin small letter turned w	Mn: Mark, nonspacing	Inherited
+◌᷀	
+COMBINING DOTTED GRAVE ACCENT
+U+1DC0
+Dotted grave	Mn: Mark, nonspacing	Inherited
+◌᷁	
+COMBINING DOTTED ACUTE ACCENT
+U+1DC1
+Dotted acute	Mn: Mark, nonspacing	Inherited
+◌᷂	
+COMBINING SNAKE BELOW
+U+1DC2
+Snake	Mn: Mark, nonspacing	Inherited
+◌᷃	
+COMBINING SUSPENSION MARK
+U+1DC3
+Suspension mark	Mn: Mark, nonspacing	Inherited
+◌᷄	
+COMBINING MACRON-ACUTE
+U+1DC4
+Macron-acute	Mn: Mark, nonspacing	Inherited
+◌᷅	
+COMBINING GRAVE-MACRON
+U+1DC5
+Grave-macron	Mn: Mark, nonspacing	Inherited
+◌᷆	
+COMBINING MACRON-GRAVE
+U+1DC6
+Macron-grave	Mn: Mark, nonspacing	Inherited
+◌᷇	
+COMBINING ACUTE-MACRON
+U+1DC7
+Acute-macron	Mn: Mark, nonspacing	Inherited
+◌᷈	
+COMBINING GRAVE-ACUTE-GRAVE
+U+1DC8
+Grave-acute-grave	Mn: Mark, nonspacing	Inherited
+◌᷉	
+COMBINING ACUTE-GRAVE-ACUTE
+U+1DC9
+Acute-grave-acute	Mn: Mark, nonspacing	Inherited
+◌᷊	
+COMBINING LATIN SMALL LETTER R BELOW
+U+1DCA
+Latin small letter r	Mn: Mark, nonspacing	Inherited
+◌᷋	
+COMBINING BREVE-MACRON
+U+1DCB
+Breve-macron	Mn: Mark, nonspacing	Inherited
+◌᷌	
+COMBINING MACRON-BREVE
+U+1DCC
+Macron-breve	Mn: Mark, nonspacing	Inherited
+◌᷍◌	
+COMBINING DOUBLE CIRCUMFLEX ABOVE
+U+1DCD
+Double circumflex	Mn: Mark, nonspacing	Inherited
+◌᷎	
+COMBINING OGONEK ABOVE
+U+1DCE
+Ogonek	Mn: Mark, nonspacing	Inherited
+◌᷏	
+COMBINING ZIGZAG BELOW
+U+1DCF
+Zigzag	Mn: Mark, nonspacing	Inherited
+◌᷐	
+COMBINING IS BELOW
+U+1DD0
+Is	Mn: Mark, nonspacing	Inherited
+◌᷑	
+COMBINING UR ABOVE
+U+1DD1
+Ur	Mn: Mark, nonspacing	Inherited
+◌᷒	
+COMBINING US ABOVE
+U+1DD2
+Us	Mn: Mark, nonspacing	Inherited
+◌ᷓ	
+COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE
+U+1DD3
+Latin small letter flattened open a	Mn: Mark, nonspacing	Inherited
+◌ᷔ	
+COMBINING LATIN SMALL LETTER AE
+U+1DD4
+Latin small letter ae	Mn: Mark, nonspacing	Inherited
+◌ᷕ	
+COMBINING LATIN SMALL LETTER AO
+U+1DD5
+Latin small letter ao	Mn: Mark, nonspacing	Inherited
+◌ᷖ	
+COMBINING LATIN SMALL LETTER AV
+U+1DD6
+Latin small letter av	Mn: Mark, nonspacing	Inherited
+◌ᷗ	
+COMBINING LATIN SMALL LETTER C CEDILLA
+U+1DD7
+Latin small letter c cedilla	Mn: Mark, nonspacing	Inherited
+◌ᷘ	
+COMBINING LATIN SMALL LETTER INSULAR D
+U+1DD8
+Latin small letter insular d	Mn: Mark, nonspacing	Inherited
+◌ᷙ	
+COMBINING LATIN SMALL LETTER ETH
+U+1DD9
+Latin small letter eth	Mn: Mark, nonspacing	Inherited
+◌ᷚ	
+COMBINING LATIN SMALL LETTER G
+U+1DDA
+Latin small letter g	Mn: Mark, nonspacing	Inherited
+◌ᷛ	
+COMBINING LATIN LETTER SMALL CAPITAL G
+U+1DDB
+Latin letter small capital g	Mn: Mark, nonspacing	Inherited
+◌ᷜ	
+COMBINING LATIN SMALL LETTER K
+U+1DDC
+Latin small letter k	Mn: Mark, nonspacing	Inherited
+◌ᷝ	
+COMBINING LATIN SMALL LETTER L
+U+1DDD
+Latin small letter l	Mn: Mark, nonspacing	Inherited
+◌ᷞ	
+COMBINING LATIN LETTER SMALL CAPITAL L
+U+1DDE
+Latin letter small capital l	Mn: Mark, nonspacing	Inherited
+◌ᷟ	
+COMBINING LATIN LETTER SMALL CAPITAL M
+U+1DDF
+Latin letter small capital m	Mn: Mark, nonspacing	Inherited
+◌ᷠ	
+COMBINING LATIN SMALL LETTER N
+U+1DE0
+Latin small letter n	Mn: Mark, nonspacing	Inherited
+◌ᷡ	
+COMBINING LATIN LETTER SMALL CAPITAL N
+U+1DE1
+Latin letter small capital n	Mn: Mark, nonspacing	Inherited
+◌ᷢ	
+COMBINING LATIN LETTER SMALL CAPITAL R
+U+1DE2
+Latin letter small capital r	Mn: Mark, nonspacing	Inherited
+◌ᷣ	
+COMBINING LATIN SMALL LETTER R ROTUNDA
+U+1DE3
+Latin small letter r rotunda	Mn: Mark, nonspacing	Inherited
+◌ᷤ	
+COMBINING LATIN SMALL LETTER S
+U+1DE4
+Latin small letter s	Mn: Mark, nonspacing	Inherited
+◌ᷥ	
+COMBINING LATIN SMALL LETTER LONG S
+U+1DE5
+Latin small letter long s	Mn: Mark, nonspacing	Inherited
+◌ᷦ	
+COMBINING LATIN SMALL LETTER Z
+U+1DE6
+Latin small letter z	Mn: Mark, nonspacing	Inherited
+◌ᷧ	
+COMBINING LATIN SMALL LETTER ALPHA
+U+1DE7
+Latin small letter alpha	Mn: Mark, nonspacing	Inherited
+◌ᷨ	
+COMBINING LATIN SMALL LETTER B
+U+1DE8
+Latin small letter b	Mn: Mark, nonspacing	Inherited
+◌ᷩ	
+COMBINING LATIN SMALL LETTER BETA
+U+1DE9
+Latin small letter beta	Mn: Mark, nonspacing	Inherited
+◌ᷪ	
+COMBINING LATIN SMALL LETTER SCHWA
+U+1DEA
+Latin small letter schwa	Mn: Mark, nonspacing	Inherited
+◌ᷫ	
+COMBINING LATIN SMALL LETTER F
+U+1DEB
+Latin small letter f	Mn: Mark, nonspacing	Inherited
+◌ᷬ	
+COMBINING LATIN SMALL LETTER L WITH DOUBLE MIDDLE TILDE
+U+1DEC
+Latin small letter l with double middle tilde	Mn: Mark, nonspacing	Inherited
+◌ᷭ	
+COMBINING LATIN SMALL LETTER O WITH LIGHT CENTRALIZATION STROKE
+U+1DED
+Latin small letter o with light centralization stroke	Mn: Mark, nonspacing	Inherited
+◌ᷮ	
+COMBINING LATIN SMALL LETTER P
+U+1DEE
+Latin small letter p	Mn: Mark, nonspacing	Inherited
+◌ᷯ	
+COMBINING LATIN SMALL LETTER ESH
+U+1DEF
+Latin small letter esh	Mn: Mark, nonspacing	Inherited
+◌ᷰ	
+COMBINING LATIN SMALL LETTER U WITH LIGHT CENTRALIZATION STROKE
+U+1DF0
+Latin small letter u with light centralization stroke	Mn: Mark, nonspacing	Inherited
+◌ᷱ	
+COMBINING LATIN SMALL LETTER W
+U+1DF1
+Latin small letter w	Mn: Mark, nonspacing	Inherited
+◌ᷲ	
+COMBINING LATIN SMALL LETTER A WITH DIAERESIS
+U+1DF2
+Latin small letter a with diaeresis	Mn: Mark, nonspacing	Inherited
+◌ᷳ	
+COMBINING LATIN SMALL LETTER O WITH DIAERESIS
+U+1DF3
+Latin small letter o with diaeresis	Mn: Mark, nonspacing	Inherited
+◌ᷴ	
+COMBINING LATIN SMALL LETTER U WITH DIAERESIS
+U+1DF4
+Latin small letter u with diaeresis	Mn: Mark, nonspacing	Inherited
+◌᷵	
+COMBINING UP TACK ABOVE
+U+1DF5
+Up tack	Mn: Mark, nonspacing	Inherited
+◌᷸	
+COMBINING DOT ABOVE LEFT
+U+1DF8
+Dot left	Mn: Mark, nonspacing	Inherited
+◌᷹	
+COMBINING WIDE INVERTED BRIDGE BELOW
+U+1DF9
+Wide inverted bridge	Mn: Mark, nonspacing	Inherited
+◌᷻	
+COMBINING DELETION MARK
+U+1DFB
+Deletion mark	Mn: Mark, nonspacing	Inherited
+◌᷼◌	
+COMBINING DOUBLE INVERTED BREVE BELOW
+U+1DFC
+Double inverted breve	Mn: Mark, nonspacing	Inherited
+◌᷽	
+COMBINING ALMOST EQUAL TO BELOW
+U+1DFD
+Almost equal to	Mn: Mark, nonspacing	Inherited
+◌᷾	
+COMBINING LEFT ARROWHEAD ABOVE
+U+1DFE
+Left arrowhead	Mn: Mark, nonspacing	Inherited
+◌᷿	
+COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW
+U+1DFF
+Right arrowhead and down arrowhead	Mn: Mark, nonspacing	Inherited
+◌⃐◌	
+COMBINING LEFT HARPOON ABOVE
+U+20D0
+Left harpoon	Mn: Mark, nonspacing	Inherited
+◌⃑◌	
+COMBINING RIGHT HARPOON ABOVE
+U+20D1
+Right harpoon	Mn: Mark, nonspacing	Inherited
+◌⃒	
+COMBINING LONG VERTICAL LINE OVERLAY
+U+20D2
+Long vertical line overlay	Mn: Mark, nonspacing	Inherited
+◌⃓	
+COMBINING SHORT VERTICAL LINE OVERLAY
+U+20D3
+Short vertical line overlay	Mn: Mark, nonspacing	Inherited
+◌⃔◌	
+COMBINING ANTICLOCKWISE ARROW ABOVE
+U+20D4
+Anticlockwise arrow	Mn: Mark, nonspacing	Inherited
+◌⃕◌	
+COMBINING CLOCKWISE ARROW ABOVE
+U+20D5
+Clockwise arrow	Mn: Mark, nonspacing	Inherited
+◌⃖◌	
+COMBINING LEFT ARROW ABOVE
+U+20D6
+Left arrow	Mn: Mark, nonspacing	Inherited
+◌⃗◌	
+COMBINING RIGHT ARROW ABOVE
+U+20D7
+Right arrow	Mn: Mark, nonspacing	Inherited
+◌⃘	
+COMBINING RING OVERLAY
+U+20D8
+Ring overlay	Mn: Mark, nonspacing	Inherited
+◌⃙	
+COMBINING CLOCKWISE RING OVERLAY
+U+20D9
+Clockwise ring overlay	Mn: Mark, nonspacing	Inherited
+◌⃚	
+COMBINING ANTICLOCKWISE RING OVERLAY
+U+20DA
+Anticlockwise ring overlay	Mn: Mark, nonspacing	Inherited
+◌⃛◌	
+COMBINING THREE DOTS ABOVE
+U+20DB
+Three dots	Mn: Mark, nonspacing	Inherited
+◌⃜◌	
+COMBINING FOUR DOTS ABOVE
+U+20DC
+Four dots	Mn: Mark, nonspacing	Inherited
+◌⃡◌	
+COMBINING LEFT RIGHT ARROW ABOVE
+U+20E1
+Left right arrow	Mn: Mark, nonspacing	Inherited
+◌⃥	
+COMBINING REVERSE SOLIDUS OVERLAY
+U+20E5
+Reverse solidus overlay	Mn: Mark, nonspacing	Inherited
+◌⃦	
+COMBINING DOUBLE VERTICAL STROKE OVERLAY
+U+20E6
+Double vertical stroke overlay	Mn: Mark, nonspacing	Inherited
+◌⃧	
+COMBINING ANNUITY SYMBOL
+U+20E7
+Annuity symbol	Mn: Mark, nonspacing	Inherited
+◌⃨	
+COMBINING TRIPLE UNDERDOT
+U+20E8
+Triple underdot	Mn: Mark, nonspacing	Inherited
+◌⃩◌	
+COMBINING WIDE BRIDGE ABOVE
+U+20E9
+Wide bridge	Mn: Mark, nonspacing	Inherited
+◌⃪	
+COMBINING LEFTWARDS ARROW OVERLAY
+U+20EA
+Leftwards arrow overlay	Mn: Mark, nonspacing	Inherited
+◌⃫	
+COMBINING LONG DOUBLE SOLIDUS OVERLAY
+U+20EB
+Long double solidus overlay	Mn: Mark, nonspacing	Inherited
+◌⃬	
+COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS
+U+20EC
+Rightwards harpoon with barb downwards	Mn: Mark, nonspacing	Inherited
+◌⃭	
+COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS
+U+20ED
+Leftwards harpoon with barb downwards	Mn: Mark, nonspacing	Inherited
+◌⃮	
+COMBINING LEFT ARROW BELOW
+U+20EE
+Left arrow	Mn: Mark, nonspacing	Inherited
+◌⃯	
+COMBINING RIGHT ARROW BELOW
+U+20EF
+Right arrow	Mn: Mark, nonspacing	Inherited
+◌⃰◌	
+COMBINING ASTERISK ABOVE
+U+20F0
+Asterisk	Mn: Mark, nonspacing	Inherited
+◌︠	
+COMBINING LIGATURE LEFT HALF
+U+FE20
+Ligature left half	Mn: Mark, nonspacing	Inherited
+◌︡	
+COMBINING LIGATURE RIGHT HALF
+U+FE21
+Ligature right half	Mn: Mark, nonspacing	Inherited
+◌︢	
+COMBINING DOUBLE TILDE LEFT HALF
+U+FE22
+Double tilde left half	Mn: Mark, nonspacing	Inherited
+◌︣	
+COMBINING DOUBLE TILDE RIGHT HALF
+U+FE23
+Double tilde right half	Mn: Mark, nonspacing	Inherited
+◌︤	
+COMBINING MACRON LEFT HALF
+U+FE24
+Macron left half	Mn: Mark, nonspacing	Inherited
+◌︥	
+COMBINING MACRON RIGHT HALF
+U+FE25
+Macron right half	Mn: Mark, nonspacing	Inherited
+◌︦◌	
+COMBINING CONJOINING MACRON
+U+FE26
+Conjoining macron	Mn: Mark, nonspacing	Inherited
+◌︧	
+COMBINING LIGATURE LEFT HALF BELOW
+U+FE27
+Ligature left half	Mn: Mark, nonspacing	Inherited
+◌︨	
+COMBINING LIGATURE RIGHT HALF BELOW
+U+FE28
+Ligature right half	Mn: Mark, nonspacing	Inherited
+◌︩	
+COMBINING TILDE LEFT HALF BELOW
+U+FE29
+Tilde left half	Mn: Mark, nonspacing	Inherited
+◌︪	
+COMBINING TILDE RIGHT HALF BELOW
+U+FE2A
+Tilde right half	Mn: Mark, nonspacing	Inherited
+◌︫	
+COMBINING MACRON LEFT HALF BELOW
+U+FE2B
+Macron left half	Mn: Mark, nonspacing	Inherited
+◌︬	
+COMBINING MACRON RIGHT HALF BELOW
+U+FE2C
+Macron right half	Mn: Mark, nonspacing	Inherited
+◌︭	
+COMBINING CONJOINING MACRON BELOW
+U+FE2D
+Conjoining macron	Mn: Mark, nonspacing	Inherited
+See also
+Latin-script alphabets
+Alt code
+Category:Letters with diacritics
+Collating sequence
+Combining character
+Compose key
+English terms with diacritical marks
+Heavy metal umlaut
+ISO/IEC 8859 8-bit extended-Latin-alphabet European character encodings
+Latin alphabet
+List of Latin letters
+List of precomposed Latin characters in Unicode
+List of U.S. cities with diacritics
+Romanization
+Notes
+ The New Yorker is reported as being unique in its continuing usage of them.[1]

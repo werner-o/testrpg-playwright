@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+# Claude Code (local user settings, not project-shared)
+.claude/
+
+# Personal Dutch reference document, not shipped with the repo
+TESTPLAN.nl.md
