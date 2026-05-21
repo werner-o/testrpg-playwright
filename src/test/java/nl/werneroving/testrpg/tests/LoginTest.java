@@ -34,7 +34,7 @@ class LoginTest extends BaseTest {
     // as expressed in the source (a custom Zod error message should appear).
 
     @ParameterizedTest(name = "submitting with invalid email ''{0}'' does not log the user in")
-    @ValueSource(strings = {"abc", "foo@", "@bar.com", "no-at-here.com"})
+    @ValueSource(strings = {"abc", "foo@", "@bar.com", "no-at-here.com", "abc@abc.a"})
     void invalidEmailDoesNotLogUserIn(String invalidEmail) {
         page.navigate(BASE_URL);
         Header header = new Header(page);
@@ -54,7 +54,7 @@ class LoginTest extends BaseTest {
     // finding: developer intent diverges from implementation reality.
 
     @ParameterizedTest(name = "invalid email ''{0}'' should show the developer-defined Zod error message")
-    @ValueSource(strings = {"abc", "foo@", "@bar.com", "no-at-here.com"})
+    @ValueSource(strings = {"abc", "foo@", "@bar.com", "no-at-here.com", "abc@abc.a"})
     void invalidEmailShouldShowCustomZodError(String invalidEmail) {
         page.navigate(BASE_URL);
         Header header = new Header(page);
